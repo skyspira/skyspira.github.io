@@ -11,7 +11,7 @@ We quickly started to encounter financial issues, so Nic took over the responsib
 After months had passed, the rebuilding works on the server had received little progress, and the financial issues were starting to become too big of a burden on us. After some discussions internally in the staff, we have come to the following conclusion:
 
 > Due to financial issues and lack of motivation, we unfortunately have to cancel the SkySpira project here. It has been a journey for all of us, that sadly has to come to an end. Thank you for your time and we hope to see you around.
-> The Staff Team
+> <br/>The Staff Team
 
 ## What happens next
 
@@ -31,5 +31,5 @@ We will take secure backups of all our services, free of disposal to anyone inte
 
 We will remain available to be contacted using our email address staff@skyspira.net until the 1st of May, then we will start the shutdown of the email system along with our other systems. After this date the Staff will start to dissolve, and by the 1st of June, there will not be an official Staff Team anymore. After the 1st of June, we unfortunately do not have any official means of contact.
 
-This was Nic,
+This was Nic,<br/>
 Over and out.
