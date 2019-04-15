@@ -19,7 +19,7 @@ In the coming time, you will experience several services disappearing or stoppin
 
 Eventually, we will also archive the Discord server, and the website chat and email systems, as well as the social media profiles.
 
-Our services will remain open until the 1st of May, 2019, then we will be starting the closures and cancelling services.
+**Our services will remain open until the 1st of May, 2019, then we will be starting the closures and cancelling services.**
 
 ## The future for the community
 
